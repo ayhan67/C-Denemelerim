@@ -116,6 +116,7 @@ namespace cDizi
                     }
                 }
                 Console.WriteLine(ay[j] + " Ayının En çok Sattığı\tMarka: " + bMarka + "\tSatış Adedi:" + enBuyukMarka);
+                Console.WriteLine("ayhan");
             }
 
 
